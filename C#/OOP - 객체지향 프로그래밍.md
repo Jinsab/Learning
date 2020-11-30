@@ -71,5 +71,5 @@
 
 ### 출처
 
-[MSDN](https://docs.microsoft.com/ko-kr/dotnet/csharp/tutorials/intro-to-csharp/object-oriented-programming)
+[MSDN](https://docs.microsoft.com/ko-kr/dotnet/csharp/tutorials/intro-to-csharp/object-oriented-programming)  
 [객체지향 5원칙](https://okayoon.tistory.com/entry/객체지향프로그래밍이란-3요소-5원칙-그리고-추상화)
